@@ -1,15 +1,15 @@
 /* Codecademy Git & GitHub Excursion Project*/
 
-* {
+/** {
     box-sizing: border-box;
- }
+ }*/
 
  body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: black;
     color: white;
     text-align: center;
-    /*align-content: center;*/
+
  }
 
  header h1{
