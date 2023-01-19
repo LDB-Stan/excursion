@@ -1,0 +1,49 @@
+/* Codecademy Git & GitHub Excursion Project*/
+
+* {
+    box-sizing: border-box;
+ }
+
+ body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    color: white;
+    text-align: center;
+ }
+
+ header h1{
+    font-weight: normal;
+    font-size: 50px;
+ }
+
+ a:link, a:visited {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: underline;
+ }
+
+ a:active, a:hover {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: underline;
+    cursor: pointer;
+ }
+
+ h2 {
+    font-size: 42px;
+    font-weight: 300;
+ }
+
+ p {
+    color: gray;
+    font-size: 21px;
+ }
+
+ footer {
+    font-size: 21px;
+    color: gray;
+    text-align: right;
+ }
+
